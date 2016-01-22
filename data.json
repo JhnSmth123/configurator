@@ -1,0 +1,859 @@
+{
+  "cases": [
+    {
+      "formFactor": "µATX",
+      "cpuCoolerHeight": 180,
+      "graphicsCardLength": 350,
+      "name": "AeroCool DS Cube Black Window Edition mit Sichtfenster",
+      "url": "http://geizhals.de/aerocool-ds-cube-black-window-edition-mit-sichtfenster-en52261-a1010228.html",
+      "price": 75,
+      "lastUpdated": "2016-01-21T22:00:47.768"
+    },
+    {
+      "formFactor": "ATX",
+      "cpuCoolerHeight": 170,
+      "graphicsCardLength": 400,
+      "name": "be quiet! Silent Base 800 schwarz",
+      "url": "http://geizhals.de/be-quiet-silent-base-800-schwarz-bg002-a1155581.html",
+      "price": 115,
+      "lastUpdated": "2016-01-21T22:00:49.062"
+    },
+    {
+      "formFactor": "ATX",
+      "cpuCoolerHeight": 160,
+      "graphicsCardLength": 320,
+      "name": "Cooltek Antiphon schwarz",
+      "url": "http://geizhals.de/cooltek-antiphon-schwarz-600045760-a888458.html",
+      "price": 70,
+      "lastUpdated": "2016-01-21T22:00:50.291"
+    },
+    {
+      "formFactor": "ATX",
+      "cpuCoolerHeight": 165,
+      "graphicsCardLength": 430,
+      "name": "Corsair Carbide Series 200R",
+      "url": "http://geizhals.de/corsair-carbide-series-200r-cc-9011023-ww-a848564.html",
+      "price": 65,
+      "lastUpdated": "2016-01-21T22:00:51.501"
+    },
+    {
+      "formFactor": "ATX",
+      "cpuCoolerHeight": 170,
+      "graphicsCardLength": 430,
+      "name": "Fractal Design Define R4 Black Pearl",
+      "url": "http://geizhals.de/fractal-design-define-r4-black-pearl-fd-ca-def-r4-bl-a812617.html",
+      "price": 80,
+      "lastUpdated": "2016-01-21T22:00:52.736"
+    },
+    {
+      "formFactor": "ATX",
+      "cpuCoolerHeight": 2147483647,
+      "graphicsCardLength": 2147483647,
+      "name": "Generisches ATX Gehäuse"
+    },
+    {
+      "formFactor": "ATX",
+      "cpuCoolerHeight": 165,
+      "graphicsCardLength": 430,
+      "name": "Nanoxia Deep Silence 3 schwarz",
+      "url": "http://geizhals.de/nanoxia-deep-silence-3-schwarz-nxds3b-a1146008.html",
+      "price": 70,
+      "lastUpdated": "2016-01-21T22:00:54.915"
+    },
+    {
+      "formFactor": "ATX",
+      "cpuCoolerHeight": 180,
+      "graphicsCardLength": 406,
+      "name": "NZXT H440 schwarz/rot mit Sichtfenster",
+      "url": "http://geizhals.de/nzxt-h440-schwarz-rot-mit-sichtfenster-ca-h440w-m1-a1055724.html",
+      "price": 130,
+      "lastUpdated": "2016-01-21T22:00:56.131"
+    },
+    {
+      "formFactor": "ATX",
+      "cpuCoolerHeight": 193,
+      "graphicsCardLength": 472,
+      "name": "Phanteks Enthoo Pro mit Sichtfenster schwarz",
+      "url": "http://geizhals.de/phanteks-enthoo-pro-mit-sichtfenster-schwarz-ph-es614p-bk-a1110159.html",
+      "price": 105,
+      "lastUpdated": "2016-01-21T22:00:57.306"
+    },
+    {
+      "formFactor": "ATX",
+      "cpuCoolerHeight": 160,
+      "graphicsCardLength": 400,
+      "name": "Raijintek Arcadia schwarz",
+      "url": "http://geizhals.de/raijintek-arcadia-schwarz-0r200004-a1134151.html",
+      "price": 35,
+      "lastUpdated": "2016-01-21T22:00:58.468"
+    }
+  ],
+  "cpus": [
+    {
+      "socket": "FM2+",
+      "coreSpeed": 3.1,
+      "boostSpeed": 3.8,
+      "numberOfCores": 2,
+      "multiThreaded": false,
+      "power": 65,
+      "name": "AMD A8-7600",
+      "url": "http://geizhals.de/amd-a8-7600-ad7600ybjabox-a1051533.html",
+      "price": 85,
+      "lastUpdated": "2016-01-21T22:00:59.658"
+    },
+    {
+      "socket": "LGA 1150",
+      "coreSpeed": 2.7,
+      "numberOfCores": 2,
+      "multiThreaded": false,
+      "power": 53,
+      "name": "Intel Celeron G1820",
+      "url": "http://geizhals.de/intel-celeron-g1820-cm8064601483405-a995565.html",
+      "price": 30,
+      "lastUpdated": "2016-01-21T22:01:00.752"
+    },
+    {
+      "socket": "LGA 1150",
+      "coreSpeed": 2.8,
+      "numberOfCores": 2,
+      "multiThreaded": false,
+      "power": 53,
+      "name": "Intel Celeron G1840",
+      "url": "http://geizhals.de/intel-celeron-g1840-bx80646g1840-a1101422.html",
+      "price": 35,
+      "lastUpdated": "2016-01-21T22:01:01.877"
+    },
+    {
+      "socket": "LGA 1150",
+      "coreSpeed": 3.6,
+      "numberOfCores": 2,
+      "multiThreaded": true,
+      "power": 54,
+      "name": "Intel Core i3-4160",
+      "url": "http://geizhals.de/intel-core-i3-4160-bx80646i34160-a1143854.html",
+      "price": 115,
+      "lastUpdated": "2016-01-21T22:01:03.043"
+    },
+    {
+      "socket": "LGA 1150",
+      "coreSpeed": 3.2,
+      "boostSpeed": 3.4,
+      "numberOfCores": 4,
+      "multiThreaded": false,
+      "power": 84,
+      "name": "Intel Core i5-4460",
+      "url": "http://geizhals.de/intel-core-i5-4460-bx80646i54460-a1050218.html",
+      "price": 180,
+      "lastUpdated": "2016-01-21T22:01:04.21"
+    },
+    {
+      "socket": "LGA 1151",
+      "coreSpeed": 3.5,
+      "boostSpeed": 3.9,
+      "numberOfCores": 4,
+      "multiThreaded": false,
+      "power": 91,
+      "name": "Intel Core i5-6600K",
+      "url": "http://geizhals.de/intel-core-i5-6600k-bx80662i56600k-a1290376.html",
+      "price": 250,
+      "lastUpdated": "2016-01-21T22:01:05.347"
+    },
+    {
+      "socket": "LGA 1150",
+      "coreSpeed": 4.0,
+      "boostSpeed": 4.4,
+      "numberOfCores": 4,
+      "multiThreaded": true,
+      "power": 88,
+      "name": "Intel Core i7-4790K",
+      "url": "http://geizhals.de/intel-core-i7-4790k-bx80646i74790k-a1119923.html",
+      "price": 340,
+      "lastUpdated": "2016-01-21T22:01:06.556"
+    },
+    {
+      "socket": "LGA 1151",
+      "coreSpeed": 4.0,
+      "boostSpeed": 4.2,
+      "numberOfCores": 4,
+      "multiThreaded": true,
+      "power": 91,
+      "name": "Intel Core i7-6700K",
+      "url": "http://geizhals.de/intel-core-i7-6700k-bx80662i76700k-a1290371.html",
+      "price": 370,
+      "lastUpdated": "2016-01-21T22:01:07.738"
+    },
+    {
+      "socket": "LGA 1150",
+      "coreSpeed": 3.4,
+      "boostSpeed": 3.8,
+      "numberOfCores": 4,
+      "multiThreaded": true,
+      "power": 80,
+      "name": "Intel Xeon E3-1231 v3",
+      "url": "http://geizhals.de/intel-xeon-e3-1231-v3-bx80646e31231v3-a1106393.html",
+      "price": 255,
+      "lastUpdated": "2016-01-21T22:01:08.905"
+    }
+  ],
+  "coolers": [
+    {
+      "sockets": [
+        "LGA 1150",
+        "LGA 1151",
+        "LGA 1155",
+        "LGA 1156",
+        "LGA 2011",
+        "LGA 2011-3",
+        "AM3",
+        "AM3+",
+        "FM2",
+        "FM2+"
+      ],
+      "height": 163,
+      "name": "be quiet! Dark Rock Pro 3",
+      "url": "http://geizhals.de/be-quiet-dark-rock-pro-3-bk019-a1054341.html",
+      "price": 75,
+      "lastUpdated": "2016-01-21T22:01:10.365"
+    },
+    {
+      "sockets": [
+        "LGA 1150",
+        "LGA 1151",
+        "LGA 1155",
+        "LGA 1156",
+        "LGA 2011",
+        "LGA 2011-3",
+        "AM3",
+        "AM3+",
+        "FM2",
+        "FM2+"
+      ],
+      "height": 140,
+      "name": "EKL Alpenföhn Ben Nevis",
+      "url": "http://geizhals.de/ekl-alpenfoehn-ben-nevis-84000000119-a1211188.html",
+      "price": 25,
+      "lastUpdated": "2016-01-21T22:01:11.57"
+    },
+    {
+      "sockets": [
+        "LGA 1150",
+        "LGA 1151",
+        "LGA 1155",
+        "LGA 1156",
+        "LGA 2011",
+        "LGA 2011-3",
+        "AM3",
+        "AM3+",
+        "FM2",
+        "FM2+"
+      ],
+      "height": 150,
+      "name": "EKL Alpenföhn Brocken ECO",
+      "url": "http://geizhals.de/ekl-alpenfoehn-brocken-eco-84000000106-a1081623.html",
+      "price": 35,
+      "lastUpdated": "2016-01-21T22:01:12.739"
+    },
+    {
+      "sockets": [
+        "LGA 1150",
+        "LGA 1151",
+        "LGA 1155",
+        "LGA 1156",
+        "AM3",
+        "AM3+",
+        "FM2",
+        "FM2+"
+      ],
+      "height": 45,
+      "name": "EKL Alpenföhn Silvretta",
+      "url": "http://geizhals.de/ekl-alpenfoehn-silvretta-84000000096-a949432.html",
+      "price": 20,
+      "lastUpdated": "2016-01-21T22:01:14.437"
+    },
+    {
+      "sockets": [
+        "LGA 1150",
+        "LGA 1151",
+        "LGA 1155",
+        "LGA 1156",
+        "AM3",
+        "AM3+",
+        "FM2",
+        "FM2+"
+      ],
+      "height": 160,
+      "name": "Noctua NH-D14",
+      "url": "http://geizhals.de/noctua-nh-d14-a478667.html",
+      "price": 75,
+      "lastUpdated": "2016-01-21T22:01:15.615"
+    },
+    {
+      "sockets": [
+        "LGA 1150",
+        "LGA 1151",
+        "LGA 1155",
+        "LGA 1156",
+        "LGA 2011",
+        "LGA 2011-3",
+        "AM3",
+        "AM3+",
+        "FM2",
+        "FM2+"
+      ],
+      "height": 165,
+      "name": "Noctua NH-D15",
+      "url": "http://geizhals.de/noctua-nh-d15-a1098241.html",
+      "price": 85,
+      "lastUpdated": "2016-01-21T22:01:17.493"
+    },
+    {
+      "sockets": [
+        "LGA 1150",
+        "LGA 1151",
+        "LGA 1155",
+        "LGA 1156",
+        "LGA 2011",
+        "LGA 2011-3",
+        "AM3",
+        "AM3+",
+        "FM2",
+        "FM2+"
+      ],
+      "height": 162,
+      "name": "Thermalright HR-02 Macho Rev. A",
+      "url": "http://geizhals.de/thermalright-hr-02-macho-rev-a-100700717-a830474.html",
+      "price": 40,
+      "lastUpdated": "2016-01-21T22:01:18.658"
+    }
+  ],
+  "graphicsCards": [
+    {
+      "chip": "R9 390X",
+      "vram": 8,
+      "length": 305,
+      "power": 275,
+      "name": "Club 3D Radeon R9 390X royalQueen",
+      "url": "http://geizhals.de/club-3d-radeon-r9-390x-royalqueen-cgax-r939x9-a1282308.html",
+      "price": 420,
+      "lastUpdated": "2016-01-21T22:01:19.831"
+    },
+    {
+      "chip": "R7 370",
+      "vram": 2,
+      "length": 270,
+      "power": 150,
+      "name": "HIS Radeon R7 370 IceQ X² OC",
+      "url": "http://geizhals.de/his-radeon-r7-370-iceq-x-oc-h370qm2g2m-a1282812.html",
+      "price": 150,
+      "lastUpdated": "2016-01-21T22:01:20.926"
+    },
+    {
+      "chip": "R9 380",
+      "vram": 4,
+      "length": 270,
+      "power": 190,
+      "name": "HIS Radeon R9 380 IceQ X² OC",
+      "url": "http://geizhals.de/his-radeon-r9-380-iceq-x-oc-h380qm4gd-a1282808.html",
+      "price": 210,
+      "lastUpdated": "2016-01-21T22:01:22.162"
+    },
+    {
+      "chip": "GTX 980 Ti",
+      "vram": 6,
+      "length": 267,
+      "power": 250,
+      "name": "Inno3D GeForce GTX 980 Ti OC HerculeZ X3",
+      "url": "http://geizhals.de/inno3d-geforce-gtx-980-ti-oc-herculez-x3-n98tv-1sdn-n5hnx-a1275005.html",
+      "price": 680,
+      "lastUpdated": "2016-01-21T22:01:23.47"
+    },
+    {
+      "chip": "GTX 980",
+      "vram": 4,
+      "length": 281,
+      "power": 165,
+      "name": "KFA² GeForce GTX 980 SOC",
+      "url": "http://geizhals.de/kfa-geforce-gtx-980-soc-98nqh6dnc7vz-a1167946.html",
+      "price": 500,
+      "lastUpdated": "2016-01-21T22:01:24.735"
+    },
+    {
+      "chip": "R7 360",
+      "vram": 2,
+      "length": 210,
+      "power": 85,
+      "name": "PowerColor Radeon R7 360",
+      "url": "http://geizhals.de/powercolor-radeon-r7-360-axr7-360-2gbd5-dhe-oc-a1282817.html",
+      "price": 115,
+      "lastUpdated": "2016-01-21T22:01:25.908"
+    },
+    {
+      "chip": "R9 380X",
+      "vram": 4,
+      "length": 237,
+      "power": 220,
+      "name": "Sapphire Radeon R9 380X Nitro",
+      "url": "http://geizhals.de/sapphire-radeon-r9-380x-nitro-11250-01-20g-a1351755.html",
+      "price": 245,
+      "lastUpdated": "2016-01-21T22:01:27.073"
+    },
+    {
+      "chip": "R9 390",
+      "vram": 8,
+      "length": 308,
+      "power": 275,
+      "name": "Sapphire Radeon R9 390 Nitro",
+      "url": "http://geizhals.de/sapphire-radeon-r9-390-nitro-11244-00-20g-a1280763.html",
+      "price": 380,
+      "lastUpdated": "2016-01-21T22:01:28.168"
+    },
+    {
+      "chip": "R9 Fury",
+      "vram": 4,
+      "length": 305,
+      "power": 275,
+      "name": "Sapphire Radeon R9 Fury Tri-X",
+      "url": "http://geizhals.de/sapphire-radeon-r9-fury-tri-x-11247-00-40g-a1295264.html",
+      "price": 550,
+      "lastUpdated": "2016-01-21T22:01:29.401"
+    }
+  ],
+  "hdds": [
+    {
+      "rotationSpeed": 7200,
+      "size": 1000,
+      "name": "Seagate Desktop HDD 1TB",
+      "url": "http://geizhals.de/seagate-desktop-hdd-1tb-st1000dm003-a686480.html",
+      "price": 45,
+      "lastUpdated": "2016-01-21T22:01:30.573"
+    },
+    {
+      "rotationSpeed": 7200,
+      "size": 2000,
+      "name": "Seagate Desktop HDD SED 2TB",
+      "url": "http://geizhals.de/seagate-desktop-hdd-sed-2tb-st2000dm002-a1184188.html",
+      "price": 85,
+      "lastUpdated": "2016-01-21T22:01:31.817"
+    },
+    {
+      "rotationSpeed": 7200,
+      "size": 3000,
+      "name": "Seagate Desktop HDD SED 3TB",
+      "url": "http://geizhals.de/seagate-desktop-hdd-sed-3tb-st3000dm002-a1184191.html",
+      "price": 110,
+      "lastUpdated": "2016-01-21T22:01:33.007"
+    },
+    {
+      "rotationSpeed": 5400,
+      "size": 2000,
+      "name": "Western Digital WD Red 2TB",
+      "url": "http://geizhals.de/western-digital-wd-red-2tb-wd20efrx-a807339.html",
+      "price": 90,
+      "lastUpdated": "2016-01-21T22:01:34.177"
+    },
+    {
+      "rotationSpeed": 5400,
+      "size": 3000,
+      "name": "Western Digital WD Red 3TB",
+      "url": "http://geizhals.de/western-digital-wd-red-3tb-wd30efrx-a807343.html",
+      "price": 115,
+      "lastUpdated": "2016-01-21T22:01:35.3"
+    },
+    {
+      "rotationSpeed": 5400,
+      "size": 4000,
+      "name": "Western Digital WD Red 4TB",
+      "url": "http://geizhals.de/western-digital-wd-red-4tb-wd40efrx-a992027.html",
+      "price": 160,
+      "lastUpdated": "2016-01-21T22:01:36.431"
+    }
+  ],
+  "mainboards": [
+    {
+      "formFactor": "µATX",
+      "chipset": "B85",
+      "ramType": "DDR3",
+      "maxRamFrequency": 1600,
+      "name": "ASRock B85M Pro3",
+      "url": "http://geizhals.de/asrock-b85m-pro3-90-mxgv60-a0uayz-a1150556.html",
+      "price": 55,
+      "lastUpdated": "2016-01-21T22:01:37.584"
+    },
+    {
+      "formFactor": "µATX",
+      "chipset": "A88X",
+      "ramType": "DDR3",
+      "maxRamFrequency": 2133,
+      "name": "ASRock FM2A88M Extreme4+",
+      "url": "http://geizhals.de/asrock-fm2a88m-extreme4-90-mxgre0-a0uayz-a994774.html",
+      "price": 65,
+      "lastUpdated": "2016-01-21T22:01:38.867"
+    },
+    {
+      "formFactor": "ATX",
+      "chipset": "H97",
+      "ramType": "DDR3",
+      "maxRamFrequency": 1600,
+      "name": "ASRock H97 Anniversary",
+      "url": "http://geizhals.de/asrock-h97-anniversary-90-mxgwc0-a0uayz-a1161388.html",
+      "price": 70,
+      "lastUpdated": "2016-01-21T22:01:40.322"
+    },
+    {
+      "formFactor": "ATX",
+      "chipset": "Z97",
+      "ramType": "DDR3",
+      "maxRamFrequency": 3100,
+      "name": "ASRock Z97 Anniversary",
+      "url": "http://geizhals.de/asrock-z97-anniversary-90-mxgvh0-a0uayz-a1132888.html",
+      "price": 75,
+      "lastUpdated": "2016-01-21T22:01:41.475"
+    },
+    {
+      "formFactor": "ATX",
+      "chipset": "Z97",
+      "ramType": "DDR3",
+      "maxRamFrequency": 3100,
+      "name": "ASRock Z97 Pro3",
+      "url": "http://geizhals.de/asrock-z97-pro3-90-mxgtb0-a0uayz-a1111292.html",
+      "price": 90,
+      "lastUpdated": "2016-01-21T22:01:42.914"
+    },
+    {
+      "formFactor": "ATX",
+      "chipset": "Z97",
+      "ramType": "DDR3",
+      "maxRamFrequency": 3100,
+      "name": "ASRock Z97 Pro4",
+      "url": "http://geizhals.de/asrock-z97-pro4-90-mxgts0-a0uayz-a1108614.html",
+      "price": 110,
+      "lastUpdated": "2016-01-21T22:01:44.309"
+    },
+    {
+      "formFactor": "µATX",
+      "chipset": "Z97",
+      "ramType": "DDR3",
+      "maxRamFrequency": 3100,
+      "name": "ASRock Z97M Anniversary",
+      "url": "http://geizhals.de/asrock-z97m-anniversary-90-mxgvp0-a0uayz-a1132908.html",
+      "price": 85,
+      "lastUpdated": "2016-01-21T22:01:45.467"
+    },
+    {
+      "formFactor": "ATX",
+      "chipset": "Z170",
+      "ramType": "DDR4",
+      "maxRamFrequency": 3400,
+      "name": "ASUS Z170 Pro Gaming",
+      "url": "http://geizhals.de/asus-z170-pro-gaming-90mb0md0-m0eay0-a1306324.html",
+      "price": 145,
+      "lastUpdated": "2016-01-21T22:01:46.615"
+    },
+    {
+      "formFactor": "µATX",
+      "chipset": "Z170",
+      "ramType": "DDR4",
+      "maxRamFrequency": 3466,
+      "name": "ASUS Z170M-Plus",
+      "url": "http://geizhals.de/asus-z170m-plus-90mb0m60-m0eay0-a1306406.html",
+      "price": 125,
+      "lastUpdated": "2016-01-21T22:01:47.766"
+    },
+    {
+      "formFactor": "ATX",
+      "chipset": "H97",
+      "ramType": "DDR3",
+      "maxRamFrequency": 1600,
+      "name": "Gigabyte GA-H97-D3H",
+      "url": "http://geizhals.de/gigabyte-ga-h97-d3h-a1107992.html",
+      "price": 90,
+      "lastUpdated": "2016-01-21T22:01:48.935"
+    },
+    {
+      "formFactor": "µATX",
+      "chipset": "H97",
+      "ramType": "DDR3",
+      "maxRamFrequency": 1600,
+      "name": "Gigabyte GA-H97M-D3H",
+      "url": "http://geizhals.de/gigabyte-ga-h97m-d3h-a1107998.html",
+      "price": 85,
+      "lastUpdated": "2016-01-21T22:01:50.102"
+    },
+    {
+      "formFactor": "ATX",
+      "chipset": "Z97",
+      "ramType": "DDR3",
+      "maxRamFrequency": 2933,
+      "name": "Gigabyte GA-Z97-D3H",
+      "url": "http://geizhals.de/gigabyte-ga-z97-d3h-a1107958.html",
+      "price": 100,
+      "lastUpdated": "2016-01-21T22:01:52.161"
+    },
+    {
+      "formFactor": "µATX",
+      "chipset": "Z97",
+      "ramType": "DDR3",
+      "maxRamFrequency": 2933,
+      "name": "Gigabyte GA-Z97MX-Gaming 5",
+      "url": "http://geizhals.de/gigabyte-ga-z97mx-gaming-5-a1107874.html",
+      "price": 155,
+      "lastUpdated": "2016-01-21T22:01:53.863"
+    },
+    {
+      "formFactor": "ATX",
+      "chipset": "Z97",
+      "ramType": "DDR3",
+      "maxRamFrequency": 2933,
+      "name": "Gigabyte GA-Z97X-Gaming 5",
+      "url": "http://geizhals.de/gigabyte-ga-z97x-gaming-5-a1107860.html",
+      "price": 150,
+      "lastUpdated": "2016-01-21T22:01:55.591"
+    }
+  ],
+  "odds": [
+    {
+      "type": "Blu-ray",
+      "name": "Pioneer BDR-209DBK schwarz",
+      "url": "http://geizhals.de/pioneer-bdr-209dbk-schwarz-a1045402.html",
+      "price": 70,
+      "lastUpdated": "2016-01-21T22:01:56.981"
+    },
+    {
+      "type": "DVD-RW",
+      "name": "Samsung SH-224DB schwarz",
+      "url": "http://geizhals.de/samsung-sh-224db-schwarz-sh-224db-bebe-a968650.html",
+      "price": 15,
+      "lastUpdated": "2016-01-21T22:01:58.122"
+    }
+  ],
+  "powerSupplies": [
+    {
+      "formFactor": "ATX",
+      "power": 550,
+      "name": "Antec TruePower Classic TP-550C",
+      "url": "http://geizhals.de/antec-truepower-classic-tp-550c-0761345-07702-6-0761345-07703-3-a1035130.html",
+      "price": 80,
+      "lastUpdated": "2016-01-21T22:01:59.254"
+    },
+    {
+      "formFactor": "ATX",
+      "power": 550,
+      "name": "be quiet! Dark Power Pro 11 550W ATX 2.4",
+      "url": "http://geizhals.de/be-quiet-dark-power-pro-11-550w-atx-2-4-bn250-a1318886.html",
+      "price": 135,
+      "lastUpdated": "2016-01-21T22:02:00.436"
+    },
+    {
+      "formFactor": "ATX",
+      "power": 400,
+      "name": "be quiet! Straight Power 10 400W ATX 2.4",
+      "url": "http://geizhals.de/be-quiet-straight-power-10-400w-atx-2-4-e10-400w-bn230-a1165465.html",
+      "price": 70,
+      "lastUpdated": "2016-01-21T22:02:01.647"
+    },
+    {
+      "formFactor": "ATX",
+      "power": 500,
+      "name": "be quiet! Straight Power 10-CM 500W ATX 2.4",
+      "url": "http://geizhals.de/be-quiet-straight-power-10-cm-500w-atx-2-4-e10-cm-500w-bn234-a1165357.html",
+      "price": 95,
+      "lastUpdated": "2016-01-21T22:02:02.832"
+    },
+    {
+      "formFactor": "ATX",
+      "power": 400,
+      "name": "be quiet! System Power 8 400W ATX 2.4",
+      "url": "http://geizhals.de/be-quiet-system-power-8-400w-atx-2-4-bn240-a1361847.html",
+      "price": 45,
+      "lastUpdated": "2016-01-21T22:02:04.011"
+    },
+    {
+      "formFactor": "ATX",
+      "power": 500,
+      "name": "be quiet! System Power 8 500W ATX 2.4",
+      "url": "http://geizhals.de/be-quiet-system-power-8-500w-atx-2-4-bn241-a1361850.html",
+      "price": 50,
+      "lastUpdated": "2016-01-21T22:02:05.201"
+    },
+    {
+      "formFactor": "ATX",
+      "power": 550,
+      "name": "Cooler Master VS-Series V550SM 550W ATX 2.31",
+      "url": "http://geizhals.de/cooler-master-vs-series-v550sm-550w-atx-2-31-rs550-amaag1-a1010430.html",
+      "price": 90,
+      "lastUpdated": "2016-01-21T22:02:06.312"
+    },
+    {
+      "formFactor": "ATX",
+      "power": 450,
+      "name": "Super Flower Golden Green HX 450W ATX 2.3",
+      "url": "http://geizhals.de/super-flower-golden-green-hx-450w-atx-2-3-sf-450p14xe-hx-a1039307.html",
+      "price": 60,
+      "lastUpdated": "2016-01-21T22:02:07.448"
+    },
+    {
+      "formFactor": "ATX",
+      "power": 550,
+      "name": "Super Flower Golden Green HX 550W ATX 2.3",
+      "url": "http://geizhals.de/super-flower-golden-green-hx-550w-atx-2-3-sf-550p14xe-hx-a1039303.html",
+      "price": 75,
+      "lastUpdated": "2016-01-21T22:02:08.563"
+    }
+  ],
+  "rams": [
+    {
+      "type": "DDR3",
+      "numberOfModules": 1,
+      "memoryPerModule": 4,
+      "frequency": 1600,
+      "name": "Crucial Ballistix Sport DIMM 4GB",
+      "url": "http://geizhals.de/crucial-ballistix-sport-dimm-4gb-bls4g3d1609ds1s00-a734676.html",
+      "price": 20,
+      "lastUpdated": "2016-01-21T22:02:09.753"
+    },
+    {
+      "type": "DDR3",
+      "numberOfModules": 2,
+      "memoryPerModule": 8,
+      "frequency": 1600,
+      "name": "Crucial Ballistix Sport DIMM Kit 16GB",
+      "url": "http://geizhals.de/crucial-ballistix-sport-dimm-kit-16gb-bls2cp8g3d1609ds1s00-a739120.html",
+      "price": 75,
+      "lastUpdated": "2016-01-21T22:02:10.962"
+    },
+    {
+      "type": "DDR3",
+      "numberOfModules": 2,
+      "memoryPerModule": 4,
+      "frequency": 1600,
+      "name": "Crucial Ballistix Sport DIMM Kit 8GB",
+      "url": "http://geizhals.de/crucial-ballistix-sport-dimm-kit-8gb-bls2cp4g3d1609ds1s00-a723497.html",
+      "price": 40,
+      "lastUpdated": "2016-01-21T22:02:12.185"
+    },
+    {
+      "type": "DDR4",
+      "numberOfModules": 2,
+      "memoryPerModule": 8,
+      "frequency": 2133,
+      "name": "G.Skill RipJaws V rot DIMM Kit 16GB",
+      "url": "http://geizhals.de/g-skill-ripjaws-v-rot-dimm-kit-16gb-f4-2133c15d-16gvr-a1305405.html",
+      "price": 80,
+      "lastUpdated": "2016-01-21T22:02:13.394"
+    },
+    {
+      "type": "DDR4",
+      "numberOfModules": 2,
+      "memoryPerModule": 8,
+      "frequency": 3000,
+      "name": "G.Skill RipJaws V rot DIMM Kit 16GB",
+      "url": "http://geizhals.de/g-skill-ripjaws-v-rot-dimm-kit-16gb-f4-3000c15d-16gvrb-a1326602.html",
+      "price": 105,
+      "lastUpdated": "2016-01-21T22:02:14.587"
+    },
+    {
+      "type": "DDR4",
+      "numberOfModules": 2,
+      "memoryPerModule": 4,
+      "frequency": 2133,
+      "name": "G.Skill RipJaws V rot DIMM Kit 8GB",
+      "url": "http://geizhals.de/g-skill-ripjaws-v-rot-dimm-kit-8gb-f4-2133c15d-8gvr-a1301993.html",
+      "price": 45,
+      "lastUpdated": "2016-01-21T22:02:15.876"
+    },
+    {
+      "type": "DDR4",
+      "numberOfModules": 2,
+      "memoryPerModule": 4,
+      "frequency": 3000,
+      "name": "G.Skill RipJaws V rot DIMM Kit 8GB",
+      "url": "http://geizhals.de/g-skill-ripjaws-v-rot-dimm-kit-8gb-f4-3000c15d-8gvrb-a1351784.html",
+      "price": 55,
+      "lastUpdated": "2016-01-21T22:02:17.17"
+    },
+    {
+      "type": "DDR3",
+      "numberOfModules": 2,
+      "memoryPerModule": 8,
+      "frequency": 2400,
+      "name": "G.Skill TridentX DIMM Kit 16GB",
+      "url": "http://geizhals.de/g-skill-tridentx-dimm-kit-16gb-f3-2400c10d-16gtx-a764621.html",
+      "price": 105,
+      "lastUpdated": "2016-01-21T22:02:18.335"
+    },
+    {
+      "type": "DDR3",
+      "numberOfModules": 2,
+      "memoryPerModule": 4,
+      "frequency": 2400,
+      "name": "G.Skill TridentX DIMM Kit 8GB",
+      "url": "http://geizhals.de/g-skill-tridentx-dimm-kit-8gb-f3-2400c10d-8gtx-a764626.html",
+      "price": 50,
+      "lastUpdated": "2016-01-21T22:02:19.534"
+    },
+    {
+      "type": "DDR3",
+      "numberOfModules": 2,
+      "memoryPerModule": 8,
+      "frequency": 1333,
+      "name": "Kingston HyperX FURY schwarz DIMM Kit 16GB",
+      "url": "http://geizhals.de/kingston-hyperx-fury-schwarz-dimm-kit-16gb-hx313c9fbk2-16-a1090868.html",
+      "price": 75,
+      "lastUpdated": "2016-01-21T22:02:20.726"
+    },
+    {
+      "type": "DDR3",
+      "numberOfModules": 2,
+      "memoryPerModule": 4,
+      "frequency": 1866,
+      "name": "Kingston HyperX FURY schwarz DIMM Kit 8GB",
+      "url": "http://geizhals.de/kingston-hyperx-fury-schwarz-dimm-kit-8gb-hx318c10fbk2-8-a1090873.html",
+      "price": 45,
+      "lastUpdated": "2016-01-21T22:02:22.34"
+    }
+  ],
+  "ssds": [
+    {
+      "size": 120,
+      "name": "Crucial BX100 120GB",
+      "url": "http://geizhals.de/crucial-bx100-120gb-ct120bx100ssd1-a1215178.html",
+      "price": 60,
+      "lastUpdated": "2016-01-21T22:02:23.511"
+    },
+    {
+      "size": 250,
+      "name": "Crucial BX100 250GB",
+      "url": "http://geizhals.de/crucial-bx100-250gb-ct250bx100ssd1-a1215183.html",
+      "price": 80,
+      "lastUpdated": "2016-01-21T22:02:24.95"
+    },
+    {
+      "size": 1000,
+      "name": "Crucial MX200 1TB",
+      "url": "http://geizhals.de/crucial-mx200-1tb-ct1000mx200ssd1-a1215111.html",
+      "price": 330,
+      "lastUpdated": "2016-01-21T22:02:26.445"
+    },
+    {
+      "size": 250,
+      "name": "Crucial MX200 250GB",
+      "url": "http://geizhals.de/crucial-mx200-250gb-ct250mx200ssd1-a1215088.html",
+      "price": 90,
+      "lastUpdated": "2016-01-21T22:02:27.706"
+    },
+    {
+      "size": 500,
+      "name": "Crucial MX200 500GB",
+      "url": "http://geizhals.de/crucial-mx200-500gb-ct500mx200ssd1-a1215110.html",
+      "price": 175,
+      "lastUpdated": "2016-01-21T22:02:29.083"
+    },
+    {
+      "size": 120,
+      "name": "SanDisk Plus 120GB",
+      "url": "http://geizhals.de/sandisk-plus-120gb-sdssda-120g-g25-a1218323.html",
+      "price": 45,
+      "lastUpdated": "2016-01-21T22:02:30.262"
+    }
+  ]
+}
