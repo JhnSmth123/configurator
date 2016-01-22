@@ -1,6 +1,15 @@
 {
   "cases": [
     {
+      "formFactor": "ATX",
+      "cpuCoolerHeight": 160,
+      "graphicsCardLength": 320,
+      "name": "BitFenix Nova schwarz",
+      "url": "http://geizhals.de/bitfenix-nova-schwarz-bfx-nov-100-kkwsk-rp-a1336871.html",
+      "price": 30,
+      "lastUpdated": "2016-01-22T12:33:47.768"
+    },
+    {
       "formFactor": "µATX",
       "cpuCoolerHeight": 180,
       "graphicsCardLength": 350,
